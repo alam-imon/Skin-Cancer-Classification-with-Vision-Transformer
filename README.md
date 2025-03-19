@@ -1,4 +1,4 @@
-# Cancer Detection using Vision Transformer (ViT)
+# Skin Cancer Detection using Vision Transformer (ViT)
 
 This repository contains code for a cancer detection model using a Vision Transformer (ViT) architecture. The model is trained on a dataset of benign and malignant cancer images and aims to classify new images accordingly.
 
